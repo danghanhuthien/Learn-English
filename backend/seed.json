@@ -1,0 +1,3032 @@
+[
+  {
+    "slug": "introductions",
+    "name": "Giới thiệu bản thân",
+    "category": "Bản thân",
+    "description": "Bắt đầu cuộc trò chuyện bằng những điều về bạn.",
+    "icon": "UserRound",
+    "color": "#e8eee1",
+    "level": "A1",
+    "words": [
+      {
+        "term": "name",
+        "meaning": "tên",
+        "example": "My name is Linh.",
+        "level": "A1"
+      },
+      {
+        "term": "age",
+        "meaning": "tuổi",
+        "example": "What is your age?",
+        "level": "A1"
+      },
+      {
+        "term": "from",
+        "meaning": "đến từ",
+        "example": "I'm from Vietnam.",
+        "level": "A1"
+      },
+      {
+        "term": "live",
+        "meaning": "sống, sinh sống",
+        "example": "I live in Hanoi.",
+        "level": "A1"
+      },
+      {
+        "term": "hometown",
+        "meaning": "quê quán",
+        "example": "My hometown is a small coastal city.",
+        "level": "A1"
+      },
+      {
+        "term": "job",
+        "meaning": "công việc, nghề nghiệp",
+        "example": "I really enjoy my job.",
+        "level": "A1"
+      },
+      {
+        "term": "work as",
+        "meaning": "làm nghề",
+        "example": "I work as a designer.",
+        "level": "A1"
+      },
+      {
+        "term": "work for",
+        "meaning": "làm việc cho",
+        "example": "I work for a software company.",
+        "level": "A1"
+      },
+      {
+        "term": "single",
+        "meaning": "độc thân",
+        "example": "I'm single.",
+        "level": "A1"
+      },
+      {
+        "term": "married",
+        "meaning": "đã kết hôn",
+        "example": "My brother is married.",
+        "level": "A1"
+      },
+      {
+        "term": "nationality",
+        "meaning": "quốc tịch",
+        "example": "What is your nationality?",
+        "level": "A1"
+      },
+      {
+        "term": "first name",
+        "meaning": "tên riêng",
+        "example": "My first name is Anna.",
+        "level": "A1"
+      },
+      {
+        "term": "last name",
+        "meaning": "họ",
+        "example": "My last name is Nguyen.",
+        "level": "A1"
+      },
+      {
+        "term": "nickname",
+        "meaning": "biệt danh",
+        "example": "My nickname is Sam.",
+        "level": "A1"
+      },
+      {
+        "term": "introduce",
+        "meaning": "giới thiệu",
+        "example": "Let me introduce myself.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "family",
+    "name": "Gia đình & bạn bè",
+    "category": "Bản thân",
+    "description": "Kể về những người quan trọng trong cuộc sống.",
+    "icon": "UsersRound",
+    "color": "#f3e5dc",
+    "level": "A1",
+    "words": [
+      {
+        "term": "parents",
+        "meaning": "bố mẹ",
+        "example": "My parents live nearby.",
+        "level": "A1"
+      },
+      {
+        "term": "father",
+        "meaning": "bố",
+        "example": "My father likes cooking.",
+        "level": "A1"
+      },
+      {
+        "term": "mother",
+        "meaning": "mẹ",
+        "example": "My mother works at a school.",
+        "level": "A1"
+      },
+      {
+        "term": "brother",
+        "meaning": "anh hoặc em trai",
+        "example": "I have a younger brother.",
+        "level": "A1"
+      },
+      {
+        "term": "sister",
+        "meaning": "chị hoặc em gái",
+        "example": "My sister is a student.",
+        "level": "A1"
+      },
+      {
+        "term": "husband",
+        "meaning": "chồng",
+        "example": "Her husband is a doctor.",
+        "level": "A1"
+      },
+      {
+        "term": "wife",
+        "meaning": "vợ",
+        "example": "His wife speaks English.",
+        "level": "A1"
+      },
+      {
+        "term": "children",
+        "meaning": "các con, trẻ em",
+        "example": "They have two children.",
+        "level": "A1"
+      },
+      {
+        "term": "relatives",
+        "meaning": "họ hàng",
+        "example": "We visit our relatives during Tet.",
+        "level": "A1"
+      },
+      {
+        "term": "close friend",
+        "meaning": "bạn thân",
+        "example": "She's a close friend of mine.",
+        "level": "A1"
+      },
+      {
+        "term": "neighbor",
+        "meaning": "hàng xóm",
+        "example": "Our neighbor is very friendly.",
+        "level": "A1"
+      },
+      {
+        "term": "get along with",
+        "meaning": "hòa hợp với",
+        "example": "I get along with my coworkers.",
+        "level": "A1"
+      },
+      {
+        "term": "spend time with",
+        "meaning": "dành thời gian cùng",
+        "example": "I spend time with my family on Sundays.",
+        "level": "A1"
+      },
+      {
+        "term": "grandparents",
+        "meaning": "ông bà",
+        "example": "My grandparents live in the countryside.",
+        "level": "A1"
+      },
+      {
+        "term": "cousin",
+        "meaning": "anh chị em họ",
+        "example": "My cousin is visiting this weekend.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "routine",
+    "name": "Một ngày của bạn",
+    "category": "Bản thân",
+    "description": "Từ lúc thức dậy đến khi đi ngủ.",
+    "icon": "Sun",
+    "color": "#f7edcf",
+    "level": "A1",
+    "words": [
+      {
+        "term": "wake up",
+        "meaning": "tỉnh giấc",
+        "example": "I wake up at six.",
+        "level": "A1"
+      },
+      {
+        "term": "get up",
+        "meaning": "thức dậy, ra khỏi giường",
+        "example": "I get up a little later on Sundays.",
+        "level": "A1"
+      },
+      {
+        "term": "brush my teeth",
+        "meaning": "đánh răng",
+        "example": "I brush my teeth twice a day.",
+        "level": "A1"
+      },
+      {
+        "term": "take a shower",
+        "meaning": "tắm",
+        "example": "I take a shower before breakfast.",
+        "level": "A1"
+      },
+      {
+        "term": "have breakfast",
+        "meaning": "ăn sáng",
+        "example": "I have breakfast at home.",
+        "level": "A1"
+      },
+      {
+        "term": "go to work",
+        "meaning": "đi làm",
+        "example": "I go to work by bus.",
+        "level": "A1"
+      },
+      {
+        "term": "get home",
+        "meaning": "về đến nhà",
+        "example": "I get home at seven.",
+        "level": "A1"
+      },
+      {
+        "term": "exercise",
+        "meaning": "tập thể dục",
+        "example": "I exercise every morning.",
+        "level": "A1"
+      },
+      {
+        "term": "go to bed",
+        "meaning": "đi ngủ",
+        "example": "I go to bed before eleven.",
+        "level": "A1"
+      },
+      {
+        "term": "usually",
+        "meaning": "thường",
+        "example": "I usually cook dinner.",
+        "level": "A1"
+      },
+      {
+        "term": "sometimes",
+        "meaning": "đôi khi",
+        "example": "I sometimes walk to work.",
+        "level": "A1"
+      },
+      {
+        "term": "always",
+        "meaning": "luôn luôn",
+        "example": "I always carry a water bottle.",
+        "level": "A1"
+      },
+      {
+        "term": "rarely",
+        "meaning": "hiếm khi",
+        "example": "I rarely stay up late.",
+        "level": "A1"
+      },
+      {
+        "term": "get dressed",
+        "meaning": "mặc quần áo",
+        "example": "I get dressed after my shower.",
+        "level": "A1"
+      },
+      {
+        "term": "take a break",
+        "meaning": "nghỉ giải lao",
+        "example": "Let's take a break.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "hobbies",
+    "name": "Sở thích & giải trí",
+    "category": "Bản thân",
+    "description": "Nói về những điều khiến bạn thấy vui.",
+    "icon": "Headphones",
+    "color": "#e7e4f5",
+    "level": "A1",
+    "words": [
+      {
+        "term": "free time",
+        "meaning": "thời gian rảnh",
+        "example": "What do you do in your free time?",
+        "level": "A1"
+      },
+      {
+        "term": "hobby",
+        "meaning": "sở thích",
+        "example": "My hobby is photography.",
+        "level": "A1"
+      },
+      {
+        "term": "listen to music",
+        "meaning": "nghe nhạc",
+        "example": "I listen to music on the bus.",
+        "level": "A1"
+      },
+      {
+        "term": "watch movies",
+        "meaning": "xem phim",
+        "example": "We watch movies on Friday nights.",
+        "level": "A1"
+      },
+      {
+        "term": "play games",
+        "meaning": "chơi trò chơi",
+        "example": "I play games with my friends.",
+        "level": "A1"
+      },
+      {
+        "term": "read books",
+        "meaning": "đọc sách",
+        "example": "I like to read books before bed.",
+        "level": "A1"
+      },
+      {
+        "term": "hang out",
+        "meaning": "đi chơi, gặp gỡ",
+        "example": "Let's hang out this weekend.",
+        "level": "A1"
+      },
+      {
+        "term": "be interested in",
+        "meaning": "hứng thú với",
+        "example": "I'm interested in photography.",
+        "level": "A1"
+      },
+      {
+        "term": "favorite",
+        "meaning": "yêu thích nhất",
+        "example": "What's your favorite movie?",
+        "level": "A1"
+      },
+      {
+        "term": "relax",
+        "meaning": "thư giãn",
+        "example": "I relax by listening to music.",
+        "level": "A1"
+      },
+      {
+        "term": "draw",
+        "meaning": "vẽ",
+        "example": "I like to draw animals.",
+        "level": "A1"
+      },
+      {
+        "term": "go hiking",
+        "meaning": "đi bộ đường dài",
+        "example": "We go hiking once a month.",
+        "level": "A1"
+      },
+      {
+        "term": "take photos",
+        "meaning": "chụp ảnh",
+        "example": "I take photos when I travel.",
+        "level": "A1"
+      },
+      {
+        "term": "play the guitar",
+        "meaning": "chơi đàn guitar",
+        "example": "Can you play the guitar?",
+        "level": "A1"
+      },
+      {
+        "term": "collect",
+        "meaning": "sưu tầm",
+        "example": "I collect old postcards.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "feelings",
+    "name": "Cảm xúc & ý kiến",
+    "category": "Bản thân",
+    "description": "Diễn đạt cảm giác và điều bạn nghĩ.",
+    "icon": "Heart",
+    "color": "#f4e0e5",
+    "level": "A1",
+    "words": [
+      {
+        "term": "happy",
+        "meaning": "vui",
+        "example": "I'm happy to see you.",
+        "level": "A1"
+      },
+      {
+        "term": "sad",
+        "meaning": "buồn",
+        "example": "I feel sad today.",
+        "level": "A1"
+      },
+      {
+        "term": "tired",
+        "meaning": "mệt",
+        "example": "I'm tired after work.",
+        "level": "A1"
+      },
+      {
+        "term": "worried",
+        "meaning": "lo lắng",
+        "example": "I'm worried about the exam.",
+        "level": "A1"
+      },
+      {
+        "term": "excited",
+        "meaning": "hào hứng",
+        "example": "I'm excited about our trip.",
+        "level": "A1"
+      },
+      {
+        "term": "bored",
+        "meaning": "cảm thấy chán",
+        "example": "I'm bored with this game.",
+        "level": "A1"
+      },
+      {
+        "term": "I think",
+        "meaning": "tôi nghĩ",
+        "example": "I think this is a good idea.",
+        "level": "A1"
+      },
+      {
+        "term": "I feel",
+        "meaning": "tôi cảm thấy",
+        "example": "I feel much better now.",
+        "level": "A1"
+      },
+      {
+        "term": "agree",
+        "meaning": "đồng ý",
+        "example": "I agree with you.",
+        "level": "A1"
+      },
+      {
+        "term": "disagree",
+        "meaning": "không đồng ý",
+        "example": "I disagree with that suggestion.",
+        "level": "A1"
+      },
+      {
+        "term": "nervous",
+        "meaning": "hồi hộp, lo lắng",
+        "example": "I get nervous before interviews.",
+        "level": "A1"
+      },
+      {
+        "term": "proud",
+        "meaning": "tự hào",
+        "example": "I'm proud of my progress.",
+        "level": "A1"
+      },
+      {
+        "term": "surprised",
+        "meaning": "ngạc nhiên",
+        "example": "I'm surprised by the result.",
+        "level": "A1"
+      },
+      {
+        "term": "confused",
+        "meaning": "bối rối, chưa hiểu",
+        "example": "I'm confused about the instructions.",
+        "level": "A1"
+      },
+      {
+        "term": "disappointed",
+        "meaning": "thất vọng",
+        "example": "I'm disappointed with the service.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "food",
+    "name": "Ăn uống & gọi món",
+    "category": "Sinh hoạt",
+    "description": "Tự tin gọi món và nói về món ăn yêu thích.",
+    "icon": "Utensils",
+    "color": "#f5e5d5",
+    "level": "A1",
+    "words": [
+      {
+        "term": "hungry",
+        "meaning": "đói",
+        "example": "I'm hungry. Let's eat.",
+        "level": "A1"
+      },
+      {
+        "term": "full",
+        "meaning": "no",
+        "example": "I'm full, thank you.",
+        "level": "A1"
+      },
+      {
+        "term": "menu",
+        "meaning": "thực đơn",
+        "example": "Could I see the menu?",
+        "level": "A1"
+      },
+      {
+        "term": "order",
+        "meaning": "gọi món",
+        "example": "I'd like to order some noodles.",
+        "level": "A1"
+      },
+      {
+        "term": "rice",
+        "meaning": "cơm, gạo",
+        "example": "I'd like rice with chicken.",
+        "level": "A1"
+      },
+      {
+        "term": "chicken",
+        "meaning": "thịt gà",
+        "example": "The chicken is delicious.",
+        "level": "A1"
+      },
+      {
+        "term": "vegetables",
+        "meaning": "rau",
+        "example": "I eat vegetables every day.",
+        "level": "A1"
+      },
+      {
+        "term": "spicy",
+        "meaning": "cay",
+        "example": "Is this soup spicy?",
+        "level": "A1"
+      },
+      {
+        "term": "delicious",
+        "meaning": "ngon",
+        "example": "This meal is delicious.",
+        "level": "A1"
+      },
+      {
+        "term": "bill",
+        "meaning": "hóa đơn, tiền thanh toán",
+        "example": "Could we have the bill, please?",
+        "level": "A1"
+      },
+      {
+        "term": "water",
+        "meaning": "nước",
+        "example": "Can I have some water?",
+        "level": "A1"
+      },
+      {
+        "term": "noodles",
+        "meaning": "mì, bún",
+        "example": "I'd like a bowl of noodles.",
+        "level": "A1"
+      },
+      {
+        "term": "beef",
+        "meaning": "thịt bò",
+        "example": "I don't eat beef.",
+        "level": "A1"
+      },
+      {
+        "term": "allergic to",
+        "meaning": "dị ứng với",
+        "example": "I'm allergic to peanuts.",
+        "level": "A1"
+      },
+      {
+        "term": "takeaway",
+        "meaning": "đồ ăn mang đi",
+        "example": "Can I order this for takeaway?",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "home",
+    "name": "Nhà cửa & việc nhà",
+    "category": "Sinh hoạt",
+    "description": "Chuyện quanh nhà, từ nấu ăn đến dọn dẹp.",
+    "icon": "House",
+    "color": "#e6eee4",
+    "level": "A1",
+    "words": [
+      {
+        "term": "home",
+        "meaning": "nhà, nơi mình sống",
+        "example": "I'm staying at home tonight.",
+        "level": "A1"
+      },
+      {
+        "term": "room",
+        "meaning": "phòng",
+        "example": "This room is bright.",
+        "level": "A1"
+      },
+      {
+        "term": "kitchen",
+        "meaning": "bếp",
+        "example": "The kitchen is downstairs.",
+        "level": "A1"
+      },
+      {
+        "term": "bathroom",
+        "meaning": "phòng tắm, nhà vệ sinh",
+        "example": "Where is the bathroom?",
+        "level": "A1"
+      },
+      {
+        "term": "rent",
+        "meaning": "thuê; tiền thuê",
+        "example": "How much is the rent?",
+        "level": "A1"
+      },
+      {
+        "term": "clean",
+        "meaning": "dọn sạch; sạch sẽ",
+        "example": "I clean my room every week.",
+        "level": "A1"
+      },
+      {
+        "term": "cook",
+        "meaning": "nấu ăn",
+        "example": "Can you cook dinner tonight?",
+        "level": "A1"
+      },
+      {
+        "term": "do the laundry",
+        "meaning": "giặt quần áo",
+        "example": "I do the laundry on Saturdays.",
+        "level": "A1"
+      },
+      {
+        "term": "wash the dishes",
+        "meaning": "rửa bát",
+        "example": "I'll wash the dishes.",
+        "level": "A1"
+      },
+      {
+        "term": "take out the trash",
+        "meaning": "mang rác đi đổ",
+        "example": "Please take out the trash.",
+        "level": "A1"
+      },
+      {
+        "term": "living room",
+        "meaning": "phòng khách",
+        "example": "We're in the living room.",
+        "level": "A1"
+      },
+      {
+        "term": "bedroom",
+        "meaning": "phòng ngủ",
+        "example": "My bedroom is small.",
+        "level": "A1"
+      },
+      {
+        "term": "furniture",
+        "meaning": "đồ nội thất",
+        "example": "We need some new furniture.",
+        "level": "A1"
+      },
+      {
+        "term": "fix",
+        "meaning": "sửa, khắc phục",
+        "example": "Can you fix this chair?",
+        "level": "A1"
+      },
+      {
+        "term": "move in",
+        "meaning": "chuyển vào ở",
+        "example": "We move in next week.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "shopping",
+    "name": "Mua sắm & tiền bạc",
+    "category": "Sinh hoạt",
+    "description": "Hỏi giá, thử đồ và thanh toán.",
+    "icon": "ShoppingBag",
+    "color": "#eee4f2",
+    "level": "A1",
+    "words": [
+      {
+        "term": "buy",
+        "meaning": "mua",
+        "example": "I want to buy a new bag.",
+        "level": "A1"
+      },
+      {
+        "term": "sell",
+        "meaning": "bán",
+        "example": "Do you sell phone chargers?",
+        "level": "A1"
+      },
+      {
+        "term": "price",
+        "meaning": "giá",
+        "example": "What is the price of this shirt?",
+        "level": "A1"
+      },
+      {
+        "term": "cheap",
+        "meaning": "rẻ",
+        "example": "This bag is quite cheap.",
+        "level": "A1"
+      },
+      {
+        "term": "expensive",
+        "meaning": "đắt",
+        "example": "That jacket is too expensive.",
+        "level": "A1"
+      },
+      {
+        "term": "cash",
+        "meaning": "tiền mặt",
+        "example": "Can I pay in cash?",
+        "level": "A1"
+      },
+      {
+        "term": "pay by card",
+        "meaning": "thanh toán bằng thẻ",
+        "example": "I'd like to pay by card.",
+        "level": "A1"
+      },
+      {
+        "term": "change",
+        "meaning": "tiền thừa, tiền trả lại",
+        "example": "Keep the change.",
+        "level": "A1"
+      },
+      {
+        "term": "size",
+        "meaning": "kích cỡ",
+        "example": "Do you have this in my size?",
+        "level": "A1"
+      },
+      {
+        "term": "try on",
+        "meaning": "thử quần áo, giày",
+        "example": "Can I try on this jacket?",
+        "level": "A1"
+      },
+      {
+        "term": "receipt",
+        "meaning": "biên lai",
+        "example": "Could I have a receipt?",
+        "level": "A1"
+      },
+      {
+        "term": "discount",
+        "meaning": "giảm giá",
+        "example": "Is there a student discount?",
+        "level": "A1"
+      },
+      {
+        "term": "refund",
+        "meaning": "hoàn tiền",
+        "example": "I'd like a refund, please.",
+        "level": "A1"
+      },
+      {
+        "term": "on sale",
+        "meaning": "đang được giảm giá",
+        "example": "These shoes are on sale.",
+        "level": "A1"
+      },
+      {
+        "term": "afford",
+        "meaning": "có đủ tiền mua",
+        "example": "I can't afford a new phone yet.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "health",
+    "name": "Sức khỏe",
+    "category": "Sinh hoạt",
+    "description": "Mô tả triệu chứng và đặt lịch khám.",
+    "icon": "HeartPulse",
+    "color": "#f4e2df",
+    "level": "A2",
+    "words": [
+      {
+        "term": "sick",
+        "meaning": "bị ốm",
+        "example": "I feel sick today.",
+        "level": "A2"
+      },
+      {
+        "term": "pain",
+        "meaning": "cơn đau",
+        "example": "I have pain in my back.",
+        "level": "A2"
+      },
+      {
+        "term": "headache",
+        "meaning": "đau đầu",
+        "example": "I have a headache.",
+        "level": "A2"
+      },
+      {
+        "term": "fever",
+        "meaning": "sốt",
+        "example": "My child has a fever.",
+        "level": "A2"
+      },
+      {
+        "term": "cough",
+        "meaning": "ho",
+        "example": "I've had a cough for two days.",
+        "level": "A2"
+      },
+      {
+        "term": "sore throat",
+        "meaning": "đau họng",
+        "example": "I have a sore throat.",
+        "level": "A2"
+      },
+      {
+        "term": "medicine",
+        "meaning": "thuốc",
+        "example": "Do I need to take this medicine with food?",
+        "level": "A2"
+      },
+      {
+        "term": "doctor",
+        "meaning": "bác sĩ",
+        "example": "I'd like to see a doctor.",
+        "level": "A2"
+      },
+      {
+        "term": "appointment",
+        "meaning": "lịch hẹn",
+        "example": "I have an appointment at ten.",
+        "level": "A2"
+      },
+      {
+        "term": "feel better",
+        "meaning": "cảm thấy khỏe hơn",
+        "example": "I hope you feel better soon.",
+        "level": "A2"
+      },
+      {
+        "term": "stomachache",
+        "meaning": "đau bụng",
+        "example": "I have a stomachache.",
+        "level": "A2"
+      },
+      {
+        "term": "pharmacy",
+        "meaning": "nhà thuốc",
+        "example": "Is there a pharmacy nearby?",
+        "level": "A2"
+      },
+      {
+        "term": "rest",
+        "meaning": "nghỉ ngơi",
+        "example": "You need some rest.",
+        "level": "A2"
+      },
+      {
+        "term": "symptom",
+        "meaning": "triệu chứng",
+        "example": "When did this symptom start?",
+        "level": "A2"
+      },
+      {
+        "term": "injury",
+        "meaning": "chấn thương",
+        "example": "He's recovering from an injury.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "directions",
+    "name": "Đi lại & hỏi đường",
+    "category": "Sinh hoạt",
+    "description": "Tìm đường và sử dụng phương tiện công cộng.",
+    "icon": "MapPin",
+    "color": "#dfecee",
+    "level": "A1",
+    "words": [
+      {
+        "term": "bus stop",
+        "meaning": "trạm xe buýt",
+        "example": "The bus stop is across the street.",
+        "level": "A1"
+      },
+      {
+        "term": "station",
+        "meaning": "nhà ga, trạm",
+        "example": "How far is the station?",
+        "level": "A1"
+      },
+      {
+        "term": "ticket",
+        "meaning": "vé",
+        "example": "I'd like a return ticket.",
+        "level": "A1"
+      },
+      {
+        "term": "turn left",
+        "meaning": "rẽ trái",
+        "example": "Turn left at the next street.",
+        "level": "A1"
+      },
+      {
+        "term": "turn right",
+        "meaning": "rẽ phải",
+        "example": "Turn right after the bank.",
+        "level": "A1"
+      },
+      {
+        "term": "go straight",
+        "meaning": "đi thẳng",
+        "example": "Go straight for two blocks.",
+        "level": "A1"
+      },
+      {
+        "term": "near",
+        "meaning": "gần",
+        "example": "The hotel is near the park.",
+        "level": "A1"
+      },
+      {
+        "term": "far",
+        "meaning": "xa",
+        "example": "Is the airport far from here?",
+        "level": "A1"
+      },
+      {
+        "term": "get on",
+        "meaning": "lên xe buýt, tàu",
+        "example": "Get on the bus here.",
+        "level": "A1"
+      },
+      {
+        "term": "get off",
+        "meaning": "xuống xe buýt, tàu",
+        "example": "Get off at the next stop.",
+        "level": "A1"
+      },
+      {
+        "term": "cross the street",
+        "meaning": "băng qua đường",
+        "example": "Cross the street at the lights.",
+        "level": "A1"
+      },
+      {
+        "term": "traffic",
+        "meaning": "giao thông, xe cộ",
+        "example": "There's a lot of traffic today.",
+        "level": "A1"
+      },
+      {
+        "term": "intersection",
+        "meaning": "giao lộ",
+        "example": "Turn left at the intersection.",
+        "level": "A1"
+      },
+      {
+        "term": "opposite",
+        "meaning": "đối diện",
+        "example": "The cafe is opposite the bank.",
+        "level": "A1"
+      },
+      {
+        "term": "How do I get to",
+        "meaning": "tôi đến… bằng đường nào",
+        "example": "How do I get to the museum?",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "small-talk",
+    "name": "Làm quen & chuyện trò",
+    "category": "Giao tiếp",
+    "description": "Giữ cuộc trò chuyện tự nhiên với người mới.",
+    "icon": "MessagesSquare",
+    "color": "#e5e9f4",
+    "level": "A1",
+    "words": [
+      {
+        "term": "Nice to meet you",
+        "meaning": "rất vui được gặp bạn",
+        "example": "Nice to meet you, Anna.",
+        "level": "A1"
+      },
+      {
+        "term": "How's it going",
+        "meaning": "dạo này thế nào",
+        "example": "Hi Sam, how's it going?",
+        "level": "A1"
+      },
+      {
+        "term": "How about you",
+        "meaning": "còn bạn thì sao",
+        "example": "I'm doing well. How about you?",
+        "level": "A1"
+      },
+      {
+        "term": "What do you do",
+        "meaning": "bạn làm nghề gì",
+        "example": "What do you do for a living?",
+        "level": "A1"
+      },
+      {
+        "term": "weather",
+        "meaning": "thời tiết",
+        "example": "The weather is lovely today.",
+        "level": "A1"
+      },
+      {
+        "term": "weekend",
+        "meaning": "cuối tuần",
+        "example": "How was your weekend?",
+        "level": "A1"
+      },
+      {
+        "term": "busy",
+        "meaning": "bận",
+        "example": "Have you been busy lately?",
+        "level": "A1"
+      },
+      {
+        "term": "Have you been here before",
+        "meaning": "bạn từng đến đây chưa",
+        "example": "Have you been here before?",
+        "level": "A1"
+      },
+      {
+        "term": "That sounds good",
+        "meaning": "nghe hay đấy",
+        "example": "Dinner at seven? That sounds good.",
+        "level": "A1"
+      },
+      {
+        "term": "See you later",
+        "meaning": "hẹn gặp lại",
+        "example": "I have to go. See you later!",
+        "level": "A1"
+      },
+      {
+        "term": "long time no see",
+        "meaning": "lâu rồi không gặp",
+        "example": "Long time no see! How are you?",
+        "level": "A1"
+      },
+      {
+        "term": "by the way",
+        "meaning": "nhân tiện",
+        "example": "By the way, where are you staying?",
+        "level": "A1"
+      },
+      {
+        "term": "really",
+        "meaning": "thật sao; thực sự",
+        "example": "Really? That's interesting.",
+        "level": "A1"
+      },
+      {
+        "term": "That's interesting",
+        "meaning": "điều đó thú vị đấy",
+        "example": "That's interesting. Tell me more.",
+        "level": "A1"
+      },
+      {
+        "term": "keep in touch",
+        "meaning": "giữ liên lạc",
+        "example": "Let's keep in touch.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "plans",
+    "name": "Hẹn gặp & lên kế hoạch",
+    "category": "Giao tiếp",
+    "description": "Sắp xếp một cuộc hẹn thật dễ dàng.",
+    "icon": "CalendarDays",
+    "color": "#f2ead9",
+    "level": "A2",
+    "words": [
+      {
+        "term": "plan",
+        "meaning": "kế hoạch; lên kế hoạch",
+        "example": "What's the plan for tomorrow?",
+        "level": "A2"
+      },
+      {
+        "term": "meet up",
+        "meaning": "gặp nhau",
+        "example": "Let's meet up after work.",
+        "level": "A2"
+      },
+      {
+        "term": "available",
+        "meaning": "rảnh, có thể tham gia",
+        "example": "Are you available on Friday?",
+        "level": "A2"
+      },
+      {
+        "term": "tomorrow",
+        "meaning": "ngày mai",
+        "example": "I'll call you tomorrow.",
+        "level": "A2"
+      },
+      {
+        "term": "next week",
+        "meaning": "tuần sau",
+        "example": "Let's talk next week.",
+        "level": "A2"
+      },
+      {
+        "term": "on time",
+        "meaning": "đúng giờ",
+        "example": "Please arrive on time.",
+        "level": "A2"
+      },
+      {
+        "term": "late",
+        "meaning": "muộn",
+        "example": "I'm sorry I'm late.",
+        "level": "A2"
+      },
+      {
+        "term": "cancel",
+        "meaning": "hủy",
+        "example": "We need to cancel the meeting.",
+        "level": "A2"
+      },
+      {
+        "term": "reschedule",
+        "meaning": "đổi lịch",
+        "example": "Could we reschedule our call?",
+        "level": "A2"
+      },
+      {
+        "term": "What time works for you",
+        "meaning": "mấy giờ tiện cho bạn",
+        "example": "What time works for you tomorrow?",
+        "level": "A2"
+      },
+      {
+        "term": "this evening",
+        "meaning": "tối nay",
+        "example": "Are you free this evening?",
+        "level": "A2"
+      },
+      {
+        "term": "invite",
+        "meaning": "mời",
+        "example": "I'd like to invite you to dinner.",
+        "level": "A2"
+      },
+      {
+        "term": "join",
+        "meaning": "tham gia",
+        "example": "Would you like to join us?",
+        "level": "A2"
+      },
+      {
+        "term": "looking forward to",
+        "meaning": "mong chờ",
+        "example": "I'm looking forward to our trip.",
+        "level": "A2"
+      },
+      {
+        "term": "make it",
+        "meaning": "đến được, tham gia được",
+        "example": "Sorry, I can't make it tonight.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "travel",
+    "name": "Du lịch & khách sạn",
+    "category": "Giao tiếp",
+    "description": "Từ sân bay đến nhận phòng khách sạn.",
+    "icon": "Plane",
+    "color": "#e0edf0",
+    "level": "A2",
+    "words": [
+      {
+        "term": "trip",
+        "meaning": "chuyến đi",
+        "example": "How was your trip?",
+        "level": "A2"
+      },
+      {
+        "term": "airport",
+        "meaning": "sân bay",
+        "example": "We need to leave for the airport.",
+        "level": "A2"
+      },
+      {
+        "term": "flight",
+        "meaning": "chuyến bay",
+        "example": "My flight leaves at nine.",
+        "level": "A2"
+      },
+      {
+        "term": "passport",
+        "meaning": "hộ chiếu",
+        "example": "Here is my passport.",
+        "level": "A2"
+      },
+      {
+        "term": "luggage",
+        "meaning": "hành lý",
+        "example": "Where can I collect my luggage?",
+        "level": "A2"
+      },
+      {
+        "term": "book a room",
+        "meaning": "đặt phòng",
+        "example": "I'd like to book a room.",
+        "level": "A2"
+      },
+      {
+        "term": "reservation",
+        "meaning": "chỗ đã đặt trước",
+        "example": "I have a reservation under Nguyen.",
+        "level": "A2"
+      },
+      {
+        "term": "check in",
+        "meaning": "làm thủ tục nhận phòng, lên máy bay",
+        "example": "What time can we check in?",
+        "level": "A2"
+      },
+      {
+        "term": "check out",
+        "meaning": "làm thủ tục trả phòng",
+        "example": "We need to check out before noon.",
+        "level": "A2"
+      },
+      {
+        "term": "sightseeing",
+        "meaning": "tham quan",
+        "example": "We're going sightseeing today.",
+        "level": "A2"
+      },
+      {
+        "term": "boarding pass",
+        "meaning": "thẻ lên máy bay",
+        "example": "Can I see your boarding pass?",
+        "level": "A2"
+      },
+      {
+        "term": "departure",
+        "meaning": "sự khởi hành",
+        "example": "What is the departure time?",
+        "level": "A2"
+      },
+      {
+        "term": "arrival",
+        "meaning": "sự đến nơi",
+        "example": "Our arrival time is six.",
+        "level": "A2"
+      },
+      {
+        "term": "destination",
+        "meaning": "điểm đến",
+        "example": "What's your next destination?",
+        "level": "A2"
+      },
+      {
+        "term": "travel insurance",
+        "meaning": "bảo hiểm du lịch",
+        "example": "Do you have travel insurance?",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "politeness",
+    "name": "Nhờ giúp đỡ & lịch sự",
+    "category": "Giao tiếp",
+    "description": "Những câu nhỏ tạo nên cuộc trò chuyện dễ chịu.",
+    "icon": "HandHelping",
+    "color": "#e6eee2",
+    "level": "A1",
+    "words": [
+      {
+        "term": "Can you help me",
+        "meaning": "bạn giúp tôi được không",
+        "example": "Can you help me with this bag?",
+        "level": "A1"
+      },
+      {
+        "term": "Could you",
+        "meaning": "bạn có thể… được không",
+        "example": "Could you open the window?",
+        "level": "A1"
+      },
+      {
+        "term": "please",
+        "meaning": "làm ơn, vui lòng",
+        "example": "A coffee, please.",
+        "level": "A1"
+      },
+      {
+        "term": "Thank you",
+        "meaning": "cảm ơn bạn",
+        "example": "Thank you for your help.",
+        "level": "A1"
+      },
+      {
+        "term": "I appreciate it",
+        "meaning": "tôi rất cảm kích",
+        "example": "Thanks for your time. I appreciate it.",
+        "level": "A1"
+      },
+      {
+        "term": "You're welcome",
+        "meaning": "không có gì",
+        "example": "You're welcome. Happy to help.",
+        "level": "A1"
+      },
+      {
+        "term": "Excuse me",
+        "meaning": "xin phép, cho tôi hỏi",
+        "example": "Excuse me, is this seat taken?",
+        "level": "A1"
+      },
+      {
+        "term": "I'm sorry",
+        "meaning": "tôi xin lỗi",
+        "example": "I'm sorry about the delay.",
+        "level": "A1"
+      },
+      {
+        "term": "No problem",
+        "meaning": "không sao",
+        "example": "No problem. Take your time.",
+        "level": "A1"
+      },
+      {
+        "term": "Never mind",
+        "meaning": "thôi, bỏ qua đi",
+        "example": "Never mind, I found my keys.",
+        "level": "A1"
+      },
+      {
+        "term": "Would you mind",
+        "meaning": "bạn có phiền… không",
+        "example": "Would you mind closing the door?",
+        "level": "A1"
+      },
+      {
+        "term": "May I",
+        "meaning": "tôi có thể… không",
+        "example": "May I sit here?",
+        "level": "A1"
+      },
+      {
+        "term": "That's okay",
+        "meaning": "không sao đâu",
+        "example": "That's okay. We can try again.",
+        "level": "A1"
+      },
+      {
+        "term": "my fault",
+        "meaning": "lỗi của tôi",
+        "example": "That was my fault.",
+        "level": "A1"
+      },
+      {
+        "term": "take your time",
+        "meaning": "cứ từ từ",
+        "example": "Take your time. There's no rush.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "clarification",
+    "name": "Giải thích & hiểu nhau",
+    "category": "Giao tiếp",
+    "description": "Hỏi lại và làm rõ khi bạn chưa hiểu.",
+    "icon": "MessageCircleQuestion",
+    "color": "#ece6f4",
+    "level": "A2",
+    "words": [
+      {
+        "term": "problem",
+        "meaning": "vấn đề",
+        "example": "There's a problem with my order.",
+        "level": "A2"
+      },
+      {
+        "term": "mistake",
+        "meaning": "lỗi, sai sót",
+        "example": "I made a mistake.",
+        "level": "A2"
+      },
+      {
+        "term": "understand",
+        "meaning": "hiểu",
+        "example": "I don't understand this sentence.",
+        "level": "A2"
+      },
+      {
+        "term": "explain",
+        "meaning": "giải thích",
+        "example": "Could you explain that again?",
+        "level": "A2"
+      },
+      {
+        "term": "mean",
+        "meaning": "có nghĩa là, có ý là",
+        "example": "What does this word mean?",
+        "level": "A2"
+      },
+      {
+        "term": "I'm not sure",
+        "meaning": "tôi không chắc",
+        "example": "I'm not sure about the time.",
+        "level": "A2"
+      },
+      {
+        "term": "Could you say that again",
+        "meaning": "bạn nói lại được không",
+        "example": "Could you say that again, please?",
+        "level": "A2"
+      },
+      {
+        "term": "Could you speak more slowly",
+        "meaning": "bạn nói chậm hơn được không",
+        "example": "Could you speak more slowly, please?",
+        "level": "A2"
+      },
+      {
+        "term": "What do you mean",
+        "meaning": "ý bạn là gì",
+        "example": "What do you mean by that?",
+        "level": "A2"
+      },
+      {
+        "term": "I meant",
+        "meaning": "ý tôi là",
+        "example": "I meant next Friday, not today.",
+        "level": "A2"
+      },
+      {
+        "term": "misunderstanding",
+        "meaning": "sự hiểu lầm",
+        "example": "There was a misunderstanding about the date.",
+        "level": "A2"
+      },
+      {
+        "term": "clear",
+        "meaning": "rõ ràng",
+        "example": "Is everything clear so far?",
+        "level": "A2"
+      },
+      {
+        "term": "repeat",
+        "meaning": "nhắc lại",
+        "example": "Could you repeat the address?",
+        "level": "A2"
+      },
+      {
+        "term": "for example",
+        "meaning": "ví dụ",
+        "example": "You can bring fruit, for example, apples.",
+        "level": "A2"
+      },
+      {
+        "term": "in other words",
+        "meaning": "nói cách khác",
+        "example": "In other words, we need more time.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "work",
+    "name": "Công việc & trách nhiệm",
+    "category": "Công việc",
+    "description": "Giới thiệu vai trò và những việc bạn phụ trách.",
+    "icon": "BriefcaseBusiness",
+    "color": "#e3e9f1",
+    "level": "A2",
+    "words": [
+      {
+        "term": "company",
+        "meaning": "công ty",
+        "example": "Our company has fifty employees.",
+        "level": "A2"
+      },
+      {
+        "term": "team",
+        "meaning": "nhóm",
+        "example": "I'm on the design team.",
+        "level": "A2"
+      },
+      {
+        "term": "manager",
+        "meaning": "người quản lý",
+        "example": "I'll ask my manager.",
+        "level": "A2"
+      },
+      {
+        "term": "role",
+        "meaning": "vai trò, vị trí",
+        "example": "What is your role on the team?",
+        "level": "A2"
+      },
+      {
+        "term": "task",
+        "meaning": "nhiệm vụ",
+        "example": "This task will take an hour.",
+        "level": "A2"
+      },
+      {
+        "term": "project",
+        "meaning": "dự án",
+        "example": "We're starting a new project.",
+        "level": "A2"
+      },
+      {
+        "term": "be responsible for",
+        "meaning": "chịu trách nhiệm về",
+        "example": "You'll be responsible for customer support.",
+        "level": "A2"
+      },
+      {
+        "term": "handle",
+        "meaning": "xử lý, phụ trách",
+        "example": "I handle customer requests.",
+        "level": "A2"
+      },
+      {
+        "term": "report to",
+        "meaning": "làm việc dưới sự quản lý của",
+        "example": "I report to the sales manager.",
+        "level": "A2"
+      },
+      {
+        "term": "in charge of",
+        "meaning": "phụ trách, quản lý",
+        "example": "Who is in charge of this project?",
+        "level": "A2"
+      },
+      {
+        "term": "department",
+        "meaning": "phòng ban",
+        "example": "I work in the marketing department.",
+        "level": "A2"
+      },
+      {
+        "term": "employee",
+        "meaning": "nhân viên",
+        "example": "Every employee gets training.",
+        "level": "A2"
+      },
+      {
+        "term": "full-time",
+        "meaning": "toàn thời gian",
+        "example": "I have a full-time job.",
+        "level": "A2"
+      },
+      {
+        "term": "part-time",
+        "meaning": "bán thời gian",
+        "example": "She works part-time at a cafe.",
+        "level": "A2"
+      },
+      {
+        "term": "work remotely",
+        "meaning": "làm việc từ xa",
+        "example": "I work remotely twice a week.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "coworkers",
+    "name": "Trao đổi với đồng nghiệp",
+    "category": "Công việc",
+    "description": "Nhờ kiểm tra, gửi tài liệu và xác nhận thông tin.",
+    "icon": "ContactRound",
+    "color": "#e7eddf",
+    "level": "A2",
+    "words": [
+      {
+        "term": "coworker",
+        "meaning": "đồng nghiệp",
+        "example": "My coworker helped me today.",
+        "level": "A2"
+      },
+      {
+        "term": "send",
+        "meaning": "gửi",
+        "example": "Could you send me the file?",
+        "level": "A2"
+      },
+      {
+        "term": "receive",
+        "meaning": "nhận",
+        "example": "Did you receive my email?",
+        "level": "A2"
+      },
+      {
+        "term": "share",
+        "meaning": "chia sẻ",
+        "example": "I'll share the document with you.",
+        "level": "A2"
+      },
+      {
+        "term": "check",
+        "meaning": "kiểm tra",
+        "example": "Please check the numbers.",
+        "level": "A2"
+      },
+      {
+        "term": "confirm",
+        "meaning": "xác nhận",
+        "example": "Could you confirm the meeting time?",
+        "level": "A2"
+      },
+      {
+        "term": "file",
+        "meaning": "tệp, hồ sơ",
+        "example": "The file is attached to the email.",
+        "level": "A2"
+      },
+      {
+        "term": "attachment",
+        "meaning": "tệp đính kèm",
+        "example": "Please open the attachment.",
+        "level": "A2"
+      },
+      {
+        "term": "Let me know",
+        "meaning": "hãy cho tôi biết",
+        "example": "Let me know if you need help.",
+        "level": "A2"
+      },
+      {
+        "term": "Could you check this",
+        "meaning": "bạn kiểm tra giúp tôi được không",
+        "example": "Could you check this before I send it?",
+        "level": "A2"
+      },
+      {
+        "term": "forward",
+        "meaning": "chuyển tiếp",
+        "example": "Could you forward that email to me?",
+        "level": "A2"
+      },
+      {
+        "term": "reply",
+        "meaning": "trả lời, phản hồi",
+        "example": "I'll reply this afternoon.",
+        "level": "A2"
+      },
+      {
+        "term": "follow up",
+        "meaning": "liên hệ lại, theo dõi tiếp",
+        "example": "I'll follow up with the client tomorrow.",
+        "level": "A2"
+      },
+      {
+        "term": "available for a call",
+        "meaning": "rảnh để gọi điện",
+        "example": "Are you available for a call now?",
+        "level": "A2"
+      },
+      {
+        "term": "keep me updated",
+        "meaning": "cập nhật tình hình cho tôi",
+        "example": "Please keep me updated on the project.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "meetings",
+    "name": "Họp & trình bày ý kiến",
+    "category": "Công việc",
+    "description": "Đóng góp ý kiến và thống nhất quyết định.",
+    "icon": "Presentation",
+    "color": "#f1e8db",
+    "level": "B1",
+    "words": [
+      {
+        "term": "meeting",
+        "meaning": "cuộc họp",
+        "example": "The meeting starts at ten.",
+        "level": "B1"
+      },
+      {
+        "term": "agenda",
+        "meaning": "nội dung cần bàn trong cuộc họp",
+        "example": "Let's look at the agenda.",
+        "level": "B1"
+      },
+      {
+        "term": "discuss",
+        "meaning": "thảo luận",
+        "example": "We need to discuss the budget.",
+        "level": "B1"
+      },
+      {
+        "term": "suggest",
+        "meaning": "đề xuất",
+        "example": "I suggest starting with a small test.",
+        "level": "B1"
+      },
+      {
+        "term": "idea",
+        "meaning": "ý tưởng",
+        "example": "That's a great idea.",
+        "level": "B1"
+      },
+      {
+        "term": "point",
+        "meaning": "ý, luận điểm",
+        "example": "That's a good point.",
+        "level": "B1"
+      },
+      {
+        "term": "question",
+        "meaning": "câu hỏi",
+        "example": "I have a question about the deadline.",
+        "level": "B1"
+      },
+      {
+        "term": "decision",
+        "meaning": "quyết định",
+        "example": "We need to make a decision today.",
+        "level": "B1"
+      },
+      {
+        "term": "In my opinion",
+        "meaning": "theo ý kiến của tôi",
+        "example": "In my opinion, this option is better.",
+        "level": "B1"
+      },
+      {
+        "term": "What do you think",
+        "meaning": "bạn nghĩ sao",
+        "example": "What do you think about this plan?",
+        "level": "B1"
+      },
+      {
+        "term": "presentation",
+        "meaning": "bài thuyết trình",
+        "example": "Your presentation was very clear.",
+        "level": "B1"
+      },
+      {
+        "term": "take notes",
+        "meaning": "ghi chú",
+        "example": "I'll take notes during the meeting.",
+        "level": "B1"
+      },
+      {
+        "term": "bring up",
+        "meaning": "nêu ra một vấn đề",
+        "example": "Can I bring up one more issue?",
+        "level": "B1"
+      },
+      {
+        "term": "summarize",
+        "meaning": "tóm tắt",
+        "example": "Let me summarize what we agreed on.",
+        "level": "B1"
+      },
+      {
+        "term": "next steps",
+        "meaning": "các bước tiếp theo",
+        "example": "What are the next steps?",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "deadlines",
+    "name": "Tiến độ & thời hạn",
+    "category": "Công việc",
+    "description": "Báo tiến độ, xử lý sự cố và quản lý thời gian.",
+    "icon": "Clock3",
+    "color": "#f5e2db",
+    "level": "B1",
+    "words": [
+      {
+        "term": "deadline",
+        "meaning": "hạn chót",
+        "example": "The deadline is Friday.",
+        "level": "B1"
+      },
+      {
+        "term": "progress",
+        "meaning": "tiến độ",
+        "example": "We're making good progress.",
+        "level": "B1"
+      },
+      {
+        "term": "update",
+        "meaning": "thông tin mới; cập nhật",
+        "example": "Do you have an update for us?",
+        "level": "B1"
+      },
+      {
+        "term": "finish",
+        "meaning": "hoàn thành",
+        "example": "I'll finish this today.",
+        "level": "B1"
+      },
+      {
+        "term": "on track",
+        "meaning": "đang theo đúng kế hoạch",
+        "example": "The project is on track.",
+        "level": "B1"
+      },
+      {
+        "term": "delay",
+        "meaning": "sự chậm trễ; trì hoãn",
+        "example": "There's a delay in delivery.",
+        "level": "B1"
+      },
+      {
+        "term": "issue",
+        "meaning": "vấn đề cần xử lý",
+        "example": "We found an issue in the report.",
+        "level": "B1"
+      },
+      {
+        "term": "resolve",
+        "meaning": "giải quyết",
+        "example": "We need to resolve this issue.",
+        "level": "B1"
+      },
+      {
+        "term": "urgent",
+        "meaning": "khẩn cấp",
+        "example": "This request is urgent.",
+        "level": "B1"
+      },
+      {
+        "term": "need more time",
+        "meaning": "cần thêm thời gian",
+        "example": "I need more time to check the data.",
+        "level": "B1"
+      },
+      {
+        "term": "priority",
+        "meaning": "việc ưu tiên",
+        "example": "What is our top priority?",
+        "level": "B1"
+      },
+      {
+        "term": "behind schedule",
+        "meaning": "chậm so với kế hoạch",
+        "example": "We're a little behind schedule.",
+        "level": "B1"
+      },
+      {
+        "term": "ahead of schedule",
+        "meaning": "sớm hơn kế hoạch",
+        "example": "We finished ahead of schedule.",
+        "level": "B1"
+      },
+      {
+        "term": "due date",
+        "meaning": "ngày đến hạn",
+        "example": "What's the due date for this task?",
+        "level": "B1"
+      },
+      {
+        "term": "complete",
+        "meaning": "hoàn tất",
+        "example": "The first stage is complete.",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "customers",
+    "name": "Khách hàng & dịch vụ",
+    "category": "Công việc",
+    "description": "Hiểu nhu cầu và giải quyết yêu cầu của khách.",
+    "icon": "Handshake",
+    "color": "#dfece8",
+    "level": "B1",
+    "words": [
+      {
+        "term": "customer",
+        "meaning": "khách hàng",
+        "example": "The customer needs help with an order.",
+        "level": "B1"
+      },
+      {
+        "term": "client",
+        "meaning": "khách hàng sử dụng dịch vụ",
+        "example": "Our client approved the design.",
+        "level": "B1"
+      },
+      {
+        "term": "request",
+        "meaning": "yêu cầu",
+        "example": "We received your request.",
+        "level": "B1"
+      },
+      {
+        "term": "service",
+        "meaning": "dịch vụ",
+        "example": "Thank you for using our service.",
+        "level": "B1"
+      },
+      {
+        "term": "feedback",
+        "meaning": "phản hồi, góp ý",
+        "example": "We appreciate your feedback.",
+        "level": "B1"
+      },
+      {
+        "term": "How can I help you",
+        "meaning": "tôi có thể giúp gì cho bạn",
+        "example": "Hello, how can I help you?",
+        "level": "B1"
+      },
+      {
+        "term": "complaint",
+        "meaning": "lời phàn nàn, khiếu nại",
+        "example": "I'd like to make a complaint.",
+        "level": "B1"
+      },
+      {
+        "term": "solution",
+        "meaning": "giải pháp",
+        "example": "Let's find a solution together.",
+        "level": "B1"
+      },
+      {
+        "term": "support",
+        "meaning": "hỗ trợ",
+        "example": "You can contact our support team.",
+        "level": "B1"
+      },
+      {
+        "term": "satisfied",
+        "meaning": "hài lòng",
+        "example": "Are you satisfied with the result?",
+        "level": "B1"
+      },
+      {
+        "term": "delivery",
+        "meaning": "việc giao hàng",
+        "example": "Your delivery will arrive tomorrow.",
+        "level": "B1"
+      },
+      {
+        "term": "replacement",
+        "meaning": "sản phẩm thay thế",
+        "example": "We can send you a replacement.",
+        "level": "B1"
+      },
+      {
+        "term": "in stock",
+        "meaning": "còn hàng",
+        "example": "This item is still in stock.",
+        "level": "B1"
+      },
+      {
+        "term": "out of stock",
+        "meaning": "hết hàng",
+        "example": "Sorry, that item is out of stock.",
+        "level": "B1"
+      },
+      {
+        "term": "quote",
+        "meaning": "báo giá",
+        "example": "Could you send us a quote?",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "interviews",
+    "name": "Phỏng vấn & sự nghiệp",
+    "category": "Công việc",
+    "description": "Nói về kinh nghiệm, kỹ năng và mục tiêu.",
+    "icon": "BadgeCheck",
+    "color": "#eae5f2",
+    "level": "B1",
+    "words": [
+      {
+        "term": "experience",
+        "meaning": "kinh nghiệm",
+        "example": "I have three years of experience.",
+        "level": "B1"
+      },
+      {
+        "term": "skills",
+        "meaning": "kỹ năng",
+        "example": "I want to improve my communication skills.",
+        "level": "B1"
+      },
+      {
+        "term": "strengths",
+        "meaning": "điểm mạnh",
+        "example": "What are your main strengths?",
+        "level": "B1"
+      },
+      {
+        "term": "salary",
+        "meaning": "lương",
+        "example": "What is the salary range?",
+        "level": "B1"
+      },
+      {
+        "term": "apply for a job",
+        "meaning": "ứng tuyển công việc",
+        "example": "I'd like to apply for a job here.",
+        "level": "B1"
+      },
+      {
+        "term": "resume",
+        "meaning": "sơ yếu lý lịch nghề nghiệp",
+        "example": "I've attached my resume.",
+        "level": "B1"
+      },
+      {
+        "term": "interview",
+        "meaning": "buổi phỏng vấn",
+        "example": "My interview is tomorrow.",
+        "level": "B1"
+      },
+      {
+        "term": "position",
+        "meaning": "vị trí công việc",
+        "example": "I'm interested in this position.",
+        "level": "B1"
+      },
+      {
+        "term": "qualification",
+        "meaning": "bằng cấp, trình độ",
+        "example": "What qualifications does the role require?",
+        "level": "B1"
+      },
+      {
+        "term": "achievement",
+        "meaning": "thành tựu",
+        "example": "Tell me about your biggest achievement.",
+        "level": "B1"
+      },
+      {
+        "term": "career",
+        "meaning": "sự nghiệp",
+        "example": "I want to build a career in design.",
+        "level": "B1"
+      },
+      {
+        "term": "training",
+        "meaning": "đào tạo",
+        "example": "Does the company offer training?",
+        "level": "B1"
+      },
+      {
+        "term": "promotion",
+        "meaning": "sự thăng chức",
+        "example": "She received a promotion last month.",
+        "level": "B1"
+      },
+      {
+        "term": "weakness",
+        "meaning": "điểm yếu",
+        "example": "I'm working on this weakness.",
+        "level": "B1"
+      },
+      {
+        "term": "hire",
+        "meaning": "tuyển dụng",
+        "example": "We're planning to hire two developers.",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "learning",
+    "name": "Học tập & lớp học",
+    "category": "Khám phá thêm",
+    "description": "Hỏi bài, học kỹ năng mới và trao đổi trong lớp.",
+    "icon": "GraduationCap",
+    "color": "#f0ebd5",
+    "level": "A2",
+    "words": [
+      {
+        "term": "lesson",
+        "meaning": "bài học",
+        "example": "Today's lesson is about travel.",
+        "level": "A2"
+      },
+      {
+        "term": "class",
+        "meaning": "lớp học",
+        "example": "My English class starts at six.",
+        "level": "A2"
+      },
+      {
+        "term": "teacher",
+        "meaning": "giáo viên",
+        "example": "Our teacher is very patient.",
+        "level": "A2"
+      },
+      {
+        "term": "student",
+        "meaning": "học sinh, sinh viên",
+        "example": "I'm a university student.",
+        "level": "A2"
+      },
+      {
+        "term": "homework",
+        "meaning": "bài tập về nhà",
+        "example": "I need to finish my homework.",
+        "level": "A2"
+      },
+      {
+        "term": "practice",
+        "meaning": "luyện tập",
+        "example": "I practice speaking every day.",
+        "level": "A2"
+      },
+      {
+        "term": "learn",
+        "meaning": "học",
+        "example": "I want to learn English.",
+        "level": "A2"
+      },
+      {
+        "term": "remember",
+        "meaning": "nhớ",
+        "example": "I can't remember this word.",
+        "level": "A2"
+      },
+      {
+        "term": "forget",
+        "meaning": "quên",
+        "example": "Don't forget your notebook.",
+        "level": "A2"
+      },
+      {
+        "term": "improve",
+        "meaning": "cải thiện",
+        "example": "My listening is starting to improve.",
+        "level": "A2"
+      },
+      {
+        "term": "exam",
+        "meaning": "kỳ thi",
+        "example": "I have an exam next week.",
+        "level": "A2"
+      },
+      {
+        "term": "grade",
+        "meaning": "điểm số",
+        "example": "I got a good grade on the test.",
+        "level": "A2"
+      },
+      {
+        "term": "pronunciation",
+        "meaning": "cách phát âm",
+        "example": "Could you check my pronunciation?",
+        "level": "A2"
+      },
+      {
+        "term": "vocabulary",
+        "meaning": "từ vựng",
+        "example": "I need to learn more vocabulary.",
+        "level": "A2"
+      },
+      {
+        "term": "make progress",
+        "meaning": "tiến bộ",
+        "example": "You're making progress every week.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "technology",
+    "name": "Công nghệ & internet",
+    "category": "Khám phá thêm",
+    "description": "Những từ cần dùng khi làm việc với thiết bị.",
+    "icon": "Laptop",
+    "color": "#e2e9f3",
+    "level": "A2",
+    "words": [
+      {
+        "term": "computer",
+        "meaning": "máy tính",
+        "example": "My computer is running slowly.",
+        "level": "A2"
+      },
+      {
+        "term": "phone",
+        "meaning": "điện thoại",
+        "example": "My phone needs charging.",
+        "level": "A2"
+      },
+      {
+        "term": "charger",
+        "meaning": "bộ sạc",
+        "example": "Can I borrow your charger?",
+        "level": "A2"
+      },
+      {
+        "term": "password",
+        "meaning": "mật khẩu",
+        "example": "I forgot my password.",
+        "level": "A2"
+      },
+      {
+        "term": "log in",
+        "meaning": "đăng nhập",
+        "example": "Please log in to your account.",
+        "level": "A2"
+      },
+      {
+        "term": "download",
+        "meaning": "tải xuống",
+        "example": "You can download the file here.",
+        "level": "A2"
+      },
+      {
+        "term": "upload",
+        "meaning": "tải lên",
+        "example": "Please upload your photo.",
+        "level": "A2"
+      },
+      {
+        "term": "website",
+        "meaning": "trang web",
+        "example": "Our website has a new design.",
+        "level": "A2"
+      },
+      {
+        "term": "internet connection",
+        "meaning": "kết nối internet",
+        "example": "My internet connection is unstable.",
+        "level": "A2"
+      },
+      {
+        "term": "screen",
+        "meaning": "màn hình",
+        "example": "Can you see my screen?",
+        "level": "A2"
+      },
+      {
+        "term": "restart",
+        "meaning": "khởi động lại",
+        "example": "Try to restart your computer.",
+        "level": "A2"
+      },
+      {
+        "term": "install",
+        "meaning": "cài đặt",
+        "example": "I need to install this app.",
+        "level": "A2"
+      },
+      {
+        "term": "settings",
+        "meaning": "cài đặt, thiết lập",
+        "example": "You can change it in settings.",
+        "level": "A2"
+      },
+      {
+        "term": "link",
+        "meaning": "đường dẫn",
+        "example": "I'll send you the link.",
+        "level": "A2"
+      },
+      {
+        "term": "back up",
+        "meaning": "sao lưu",
+        "example": "Remember to back up your files.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "weather",
+    "name": "Thời tiết & mùa",
+    "category": "Khám phá thêm",
+    "description": "Một cách dễ dàng để mở đầu cuộc trò chuyện.",
+    "icon": "CloudSun",
+    "color": "#e3edf0",
+    "level": "A1",
+    "words": [
+      {
+        "term": "sunny",
+        "meaning": "có nắng",
+        "example": "It's sunny today.",
+        "level": "A1"
+      },
+      {
+        "term": "rainy",
+        "meaning": "có mưa",
+        "example": "It's a rainy afternoon.",
+        "level": "A1"
+      },
+      {
+        "term": "cloudy",
+        "meaning": "nhiều mây",
+        "example": "It will be cloudy tomorrow.",
+        "level": "A1"
+      },
+      {
+        "term": "windy",
+        "meaning": "có gió",
+        "example": "It's too windy for a picnic.",
+        "level": "A1"
+      },
+      {
+        "term": "hot",
+        "meaning": "nóng",
+        "example": "It's very hot outside.",
+        "level": "A1"
+      },
+      {
+        "term": "cold",
+        "meaning": "lạnh",
+        "example": "It's cold this morning.",
+        "level": "A1"
+      },
+      {
+        "term": "warm",
+        "meaning": "ấm",
+        "example": "The weather is warm in spring.",
+        "level": "A1"
+      },
+      {
+        "term": "cool",
+        "meaning": "mát",
+        "example": "The evenings are cool here.",
+        "level": "A1"
+      },
+      {
+        "term": "humid",
+        "meaning": "ẩm",
+        "example": "It's hot and humid today.",
+        "level": "A1"
+      },
+      {
+        "term": "forecast",
+        "meaning": "dự báo",
+        "example": "Have you checked the weather forecast?",
+        "level": "A1"
+      },
+      {
+        "term": "spring",
+        "meaning": "mùa xuân",
+        "example": "The flowers bloom in spring.",
+        "level": "A1"
+      },
+      {
+        "term": "summer",
+        "meaning": "mùa hè",
+        "example": "We go swimming in summer.",
+        "level": "A1"
+      },
+      {
+        "term": "autumn",
+        "meaning": "mùa thu",
+        "example": "I love the colors of autumn.",
+        "level": "A1"
+      },
+      {
+        "term": "winter",
+        "meaning": "mùa đông",
+        "example": "It gets cold here in winter.",
+        "level": "A1"
+      },
+      {
+        "term": "umbrella",
+        "meaning": "ô, dù",
+        "example": "Don't forget your umbrella.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "clothes",
+    "name": "Quần áo & phong cách",
+    "category": "Khám phá thêm",
+    "description": "Mô tả trang phục và tìm món đồ phù hợp.",
+    "icon": "Shirt",
+    "color": "#f1e3eb",
+    "level": "A1",
+    "words": [
+      {
+        "term": "shirt",
+        "meaning": "áo sơ mi",
+        "example": "I need a white shirt for work.",
+        "level": "A1"
+      },
+      {
+        "term": "T-shirt",
+        "meaning": "áo thun",
+        "example": "This T-shirt is comfortable.",
+        "level": "A1"
+      },
+      {
+        "term": "trousers",
+        "meaning": "quần dài",
+        "example": "These trousers are too long.",
+        "level": "A1"
+      },
+      {
+        "term": "jeans",
+        "meaning": "quần bò",
+        "example": "I usually wear jeans.",
+        "level": "A1"
+      },
+      {
+        "term": "dress",
+        "meaning": "váy liền",
+        "example": "She bought a blue dress.",
+        "level": "A1"
+      },
+      {
+        "term": "skirt",
+        "meaning": "chân váy",
+        "example": "This skirt fits well.",
+        "level": "A1"
+      },
+      {
+        "term": "jacket",
+        "meaning": "áo khoác",
+        "example": "Bring a jacket tonight.",
+        "level": "A1"
+      },
+      {
+        "term": "shoes",
+        "meaning": "giày",
+        "example": "My shoes are wet.",
+        "level": "A1"
+      },
+      {
+        "term": "socks",
+        "meaning": "tất, vớ",
+        "example": "I need a new pair of socks.",
+        "level": "A1"
+      },
+      {
+        "term": "wear",
+        "meaning": "mặc, đeo",
+        "example": "What should I wear to the party?",
+        "level": "A1"
+      },
+      {
+        "term": "fit",
+        "meaning": "vừa vặn",
+        "example": "These shoes don't fit me.",
+        "level": "A1"
+      },
+      {
+        "term": "tight",
+        "meaning": "chật",
+        "example": "This shirt is too tight.",
+        "level": "A1"
+      },
+      {
+        "term": "loose",
+        "meaning": "rộng",
+        "example": "I prefer loose clothes.",
+        "level": "A1"
+      },
+      {
+        "term": "comfortable",
+        "meaning": "thoải mái",
+        "example": "These shoes are comfortable.",
+        "level": "A1"
+      },
+      {
+        "term": "casual",
+        "meaning": "thường ngày, thoải mái",
+        "example": "We can wear casual clothes on Fridays.",
+        "level": "A1"
+      }
+    ]
+  },
+  {
+    "slug": "sports",
+    "name": "Thể thao & vận động",
+    "category": "Khám phá thêm",
+    "description": "Nói về tập luyện và hoạt động ngoài trời.",
+    "icon": "Dumbbell",
+    "color": "#e6ecd8",
+    "level": "A2",
+    "words": [
+      {
+        "term": "football",
+        "meaning": "bóng đá",
+        "example": "Do you play football?",
+        "level": "A2"
+      },
+      {
+        "term": "basketball",
+        "meaning": "bóng rổ",
+        "example": "We play basketball after school.",
+        "level": "A2"
+      },
+      {
+        "term": "swimming",
+        "meaning": "bơi lội",
+        "example": "Swimming is my favorite sport.",
+        "level": "A2"
+      },
+      {
+        "term": "running",
+        "meaning": "chạy bộ",
+        "example": "I go running in the park.",
+        "level": "A2"
+      },
+      {
+        "term": "cycling",
+        "meaning": "đạp xe",
+        "example": "I enjoy cycling on weekends.",
+        "level": "A2"
+      },
+      {
+        "term": "gym",
+        "meaning": "phòng tập",
+        "example": "I'm going to the gym tonight.",
+        "level": "A2"
+      },
+      {
+        "term": "work out",
+        "meaning": "tập luyện thể chất",
+        "example": "I work out three times a week.",
+        "level": "A2"
+      },
+      {
+        "term": "warm up",
+        "meaning": "khởi động",
+        "example": "Remember to warm up first.",
+        "level": "A2"
+      },
+      {
+        "term": "stretch",
+        "meaning": "giãn cơ",
+        "example": "I stretch after running.",
+        "level": "A2"
+      },
+      {
+        "term": "match",
+        "meaning": "trận đấu",
+        "example": "Did you watch the match?",
+        "level": "A2"
+      },
+      {
+        "term": "win",
+        "meaning": "thắng",
+        "example": "I hope our team will win.",
+        "level": "A2"
+      },
+      {
+        "term": "lose",
+        "meaning": "thua",
+        "example": "We don't want to lose this game.",
+        "level": "A2"
+      },
+      {
+        "term": "score",
+        "meaning": "ghi điểm; điểm số",
+        "example": "What's the score now?",
+        "level": "A2"
+      },
+      {
+        "term": "coach",
+        "meaning": "huấn luyện viên",
+        "example": "Our coach gives good advice.",
+        "level": "A2"
+      },
+      {
+        "term": "fitness",
+        "meaning": "thể lực",
+        "example": "I want to improve my fitness.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "money",
+    "name": "Ngân hàng & tài chính cá nhân",
+    "category": "Khám phá thêm",
+    "description": "Nói về chi tiêu, tiết kiệm và giao dịch.",
+    "icon": "Wallet",
+    "color": "#ebe9d7",
+    "level": "B1",
+    "words": [
+      {
+        "term": "bank account",
+        "meaning": "tài khoản ngân hàng",
+        "example": "I'd like to open a bank account.",
+        "level": "B1"
+      },
+      {
+        "term": "transfer",
+        "meaning": "chuyển tiền",
+        "example": "Can I transfer money online?",
+        "level": "B1"
+      },
+      {
+        "term": "withdraw",
+        "meaning": "rút tiền",
+        "example": "I need to withdraw some cash.",
+        "level": "B1"
+      },
+      {
+        "term": "deposit",
+        "meaning": "gửi tiền; tiền đặt cọc",
+        "example": "I'd like to make a deposit.",
+        "level": "B1"
+      },
+      {
+        "term": "savings",
+        "meaning": "tiền tiết kiệm",
+        "example": "I'm using my savings for this trip.",
+        "level": "B1"
+      },
+      {
+        "term": "budget",
+        "meaning": "ngân sách",
+        "example": "We need to stay within our budget.",
+        "level": "B1"
+      },
+      {
+        "term": "expense",
+        "meaning": "khoản chi",
+        "example": "Rent is my biggest expense.",
+        "level": "B1"
+      },
+      {
+        "term": "income",
+        "meaning": "thu nhập",
+        "example": "My monthly income is stable.",
+        "level": "B1"
+      },
+      {
+        "term": "fee",
+        "meaning": "phí",
+        "example": "Is there a transfer fee?",
+        "level": "B1"
+      },
+      {
+        "term": "balance",
+        "meaning": "số dư",
+        "example": "How can I check my balance?",
+        "level": "B1"
+      },
+      {
+        "term": "debt",
+        "meaning": "nợ",
+        "example": "I'm trying to pay off my debt.",
+        "level": "B1"
+      },
+      {
+        "term": "borrow",
+        "meaning": "vay, mượn",
+        "example": "Can I borrow some money?",
+        "level": "B1"
+      },
+      {
+        "term": "lend",
+        "meaning": "cho vay, cho mượn",
+        "example": "Could you lend me ten dollars?",
+        "level": "B1"
+      },
+      {
+        "term": "save money",
+        "meaning": "tiết kiệm tiền",
+        "example": "I'm trying to save money.",
+        "level": "B1"
+      },
+      {
+        "term": "exchange rate",
+        "meaning": "tỷ giá",
+        "example": "What is the exchange rate today?",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "relationships",
+    "name": "Mối quan hệ & kết nối",
+    "category": "Khám phá thêm",
+    "description": "Quan tâm, chia sẻ và giữ liên lạc với nhau.",
+    "icon": "HeartHandshake",
+    "color": "#f2e0e4",
+    "level": "B1",
+    "words": [
+      {
+        "term": "trust",
+        "meaning": "tin tưởng",
+        "example": "I trust your advice.",
+        "level": "B1"
+      },
+      {
+        "term": "respect",
+        "meaning": "tôn trọng",
+        "example": "We respect each other's opinions.",
+        "level": "B1"
+      },
+      {
+        "term": "care about",
+        "meaning": "quan tâm đến",
+        "example": "I care about my friends.",
+        "level": "B1"
+      },
+      {
+        "term": "listen to",
+        "meaning": "lắng nghe",
+        "example": "I need someone to listen to me.",
+        "level": "B1"
+      },
+      {
+        "term": "support each other",
+        "meaning": "hỗ trợ lẫn nhau",
+        "example": "Good friends support each other.",
+        "level": "B1"
+      },
+      {
+        "term": "relationship",
+        "meaning": "mối quan hệ",
+        "example": "We have a good relationship.",
+        "level": "B1"
+      },
+      {
+        "term": "argue",
+        "meaning": "tranh cãi",
+        "example": "We sometimes argue about small things.",
+        "level": "B1"
+      },
+      {
+        "term": "apologize",
+        "meaning": "xin lỗi",
+        "example": "I want to apologize for being late.",
+        "level": "B1"
+      },
+      {
+        "term": "forgive",
+        "meaning": "tha thứ",
+        "example": "I hope you can forgive me.",
+        "level": "B1"
+      },
+      {
+        "term": "honest",
+        "meaning": "trung thực, thật lòng",
+        "example": "Please be honest with me.",
+        "level": "B1"
+      },
+      {
+        "term": "patient",
+        "meaning": "kiên nhẫn",
+        "example": "Thanks for being patient with me.",
+        "level": "B1"
+      },
+      {
+        "term": "reliable",
+        "meaning": "đáng tin cậy",
+        "example": "She's a reliable friend.",
+        "level": "B1"
+      },
+      {
+        "term": "miss someone",
+        "meaning": "nhớ ai đó",
+        "example": "It's normal to miss someone you love.",
+        "level": "B1"
+      },
+      {
+        "term": "get to know",
+        "meaning": "làm quen, tìm hiểu ai",
+        "example": "I'd like to get to know you better.",
+        "level": "B1"
+      },
+      {
+        "term": "have something in common",
+        "meaning": "có điểm chung",
+        "example": "It's nice to have something in common.",
+        "level": "B1"
+      }
+    ]
+  },
+  {
+    "slug": "emergencies",
+    "name": "Sự cố & tình huống khẩn cấp",
+    "category": "Khám phá thêm",
+    "description": "Diễn đạt rõ khi bạn cần giúp đỡ ngay.",
+    "icon": "Siren",
+    "color": "#f2ded7",
+    "level": "A2",
+    "words": [
+      {
+        "term": "emergency",
+        "meaning": "tình huống khẩn cấp",
+        "example": "This is an emergency.",
+        "level": "A2"
+      },
+      {
+        "term": "Help",
+        "meaning": "cứu, giúp với",
+        "example": "Help! Someone is hurt.",
+        "level": "A2"
+      },
+      {
+        "term": "call an ambulance",
+        "meaning": "gọi xe cấp cứu",
+        "example": "Please call an ambulance.",
+        "level": "A2"
+      },
+      {
+        "term": "police",
+        "meaning": "cảnh sát",
+        "example": "We need to contact the police.",
+        "level": "A2"
+      },
+      {
+        "term": "lost",
+        "meaning": "bị lạc; bị mất",
+        "example": "I'm lost. Can you help me?",
+        "level": "A2"
+      },
+      {
+        "term": "stolen",
+        "meaning": "bị đánh cắp",
+        "example": "My phone was stolen.",
+        "level": "A2"
+      },
+      {
+        "term": "accident",
+        "meaning": "tai nạn",
+        "example": "There's been an accident.",
+        "level": "A2"
+      },
+      {
+        "term": "fire",
+        "meaning": "hỏa hoạn, lửa",
+        "example": "There's a fire in the building.",
+        "level": "A2"
+      },
+      {
+        "term": "exit",
+        "meaning": "lối ra",
+        "example": "Where is the nearest exit?",
+        "level": "A2"
+      },
+      {
+        "term": "safe",
+        "meaning": "an toàn",
+        "example": "Are you somewhere safe?",
+        "level": "A2"
+      },
+      {
+        "term": "danger",
+        "meaning": "nguy hiểm",
+        "example": "Stay away from the danger.",
+        "level": "A2"
+      },
+      {
+        "term": "address",
+        "meaning": "địa chỉ",
+        "example": "What is your address?",
+        "level": "A2"
+      },
+      {
+        "term": "contact",
+        "meaning": "liên hệ",
+        "example": "Please contact my family.",
+        "level": "A2"
+      },
+      {
+        "term": "hurt",
+        "meaning": "bị đau, bị thương",
+        "example": "Is anyone hurt?",
+        "level": "A2"
+      },
+      {
+        "term": "stay calm",
+        "meaning": "giữ bình tĩnh",
+        "example": "Try to stay calm.",
+        "level": "A2"
+      }
+    ]
+  },
+  {
+    "slug": "culture",
+    "name": "Văn hóa & lễ hội",
+    "category": "Khám phá thêm",
+    "description": "Chia sẻ phong tục và những dịp đặc biệt.",
+    "icon": "PartyPopper",
+    "color": "#f4e9cd",
+    "level": "A2",
+    "words": [
+      {
+        "term": "holiday",
+        "meaning": "ngày lễ; kỳ nghỉ",
+        "example": "Do you have plans for the holiday?",
+        "level": "A2"
+      },
+      {
+        "term": "festival",
+        "meaning": "lễ hội",
+        "example": "This festival happens every year.",
+        "level": "A2"
+      },
+      {
+        "term": "tradition",
+        "meaning": "truyền thống",
+        "example": "It's an important family tradition.",
+        "level": "A2"
+      },
+      {
+        "term": "celebrate",
+        "meaning": "ăn mừng, tổ chức mừng",
+        "example": "How do you celebrate Tet?",
+        "level": "A2"
+      },
+      {
+        "term": "gift",
+        "meaning": "quà tặng",
+        "example": "I brought you a small gift.",
+        "level": "A2"
+      },
+      {
+        "term": "birthday",
+        "meaning": "sinh nhật",
+        "example": "When is your birthday?",
+        "level": "A2"
+      },
+      {
+        "term": "wedding",
+        "meaning": "đám cưới",
+        "example": "We're going to a wedding on Saturday.",
+        "level": "A2"
+      },
+      {
+        "term": "invitation",
+        "meaning": "lời mời, thiệp mời",
+        "example": "Thank you for the invitation.",
+        "level": "A2"
+      },
+      {
+        "term": "custom",
+        "meaning": "phong tục",
+        "example": "Can you tell me about this custom?",
+        "level": "A2"
+      },
+      {
+        "term": "local",
+        "meaning": "địa phương",
+        "example": "I'd like to try some local food.",
+        "level": "A2"
+      },
+      {
+        "term": "traditional",
+        "meaning": "mang tính truyền thống",
+        "example": "This is a traditional dish.",
+        "level": "A2"
+      },
+      {
+        "term": "decorate",
+        "meaning": "trang trí",
+        "example": "We decorate the house for Tet.",
+        "level": "A2"
+      },
+      {
+        "term": "gather",
+        "meaning": "tụ họp",
+        "example": "Our family gathers for dinner.",
+        "level": "A2"
+      },
+      {
+        "term": "special occasion",
+        "meaning": "dịp đặc biệt",
+        "example": "We wear this on a special occasion.",
+        "level": "A2"
+      },
+      {
+        "term": "wish",
+        "meaning": "lời chúc; mong ước",
+        "example": "My wish is to travel with my family.",
+        "level": "A2"
+      }
+    ]
+  }
+]

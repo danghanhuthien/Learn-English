@@ -1,0 +1,20 @@
+{
+  "name": "lingua-english",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --configLoader runner",
+    "build": "vite build --configLoader runner",
+    "preview": "vite preview --host 127.0.0.1 --configLoader runner"
+  },
+  "dependencies": {
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0",
+    "@lucide/vue": "^1.56.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0",
+    "@vitejs/plugin-vue": "^6.0.0"
+  }
+}

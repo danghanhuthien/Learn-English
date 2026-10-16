@@ -1,0 +1,25 @@
+<script setup>
+import { computed } from 'vue'
+import { state } from '../api'
+import Icon from '../components/Icon.vue'
+import TopicCard from '../components/TopicCard.vue'
+const stats=computed(()=>state.stats)
+const percent=computed(()=>Math.min(100,Math.round(stats.value.today_words/stats.value.daily_goal*100)))
+const recommended=computed(()=>[...state.topics].sort((a,b)=>a.learned_count/a.word_count-b.learned_count/b.word_count).slice(0,4))
+const maxActivity=computed(()=>Math.max(15,...stats.value.activity.map(d=>d.words)))
+const date=new Intl.DateTimeFormat('vi-VN',{weekday:'long',day:'numeric',month:'long',timeZone:'Asia/Bangkok'}).format(new Date())
+</script>
+<template>
+  <div class="page dashboard">
+    <div class="page-heading"><div><div class="eyebrow">{{date}}</div><h1>Chào {{state.me.name==='Bạn' ? 'bạn' : state.me.name}}, học một chút nhé <span class="wave">✦</span></h1><p>Mỗi từ mới là một cách để bạn kết nối với thế giới.</p></div><RouterLink to="/words" class="icon-button search-link" aria-label="Tìm từ vựng"><Icon name="Search"/></RouterLink></div>
+    <section class="hero">
+      <div class="hero-copy"><div class="hero-label"><span></span> HÀNH TRÌNH CỦA BẠN</div><h2>Tiếng Anh gần gũi.<br>Cuộc trò chuyện tự tin.</h2><p>Học những từ bạn thực sự dùng — từ gọi một ly cà phê đến chia sẻ ý tưởng trong cuộc họp.</p><div class="hero-actions"><RouterLink to="/study" class="btn lime">Bắt đầu học hôm nay <Icon name="ArrowRight" :size="18"/></RouterLink><span>Khoảng 10–15 phút</span></div></div>
+      <div class="hero-art" aria-hidden="true"><div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div><span class="art-spark spark-one">✦</span><span class="art-spark spark-two">✧</span><div class="art-card card-back"><span>small steps</span><div>Big progress.</div><small>Một chút mỗi ngày.</small></div><div class="art-card card-front"><span class="art-pill">WORD OF THE DAY</span><div>connection<span class="art-volume"><Icon name="Volume2" :size="21"/></span></div><small>n. sự kết nối</small><p>“Every conversation<br>starts with a connection.”</p><span class="art-check"><Icon name="Check" :size="17"/> Học để kết nối</span></div><div class="floating-bubble"><Icon name="MessageCircle" :size="24"/></div></div>
+    </section>
+    <section class="stat-grid" aria-label="Tiến độ học"><div class="stat-card"><span class="stat-icon green"><Icon name="BookOpen"/></span><div><span class="stat-number">{{stats.learned}} <small>/ {{stats.total_words}}</small></span><p>Từ đã học</p></div></div><div class="stat-card"><span class="stat-icon orange"><Icon name="Flame"/></span><div><span class="stat-number">{{stats.streak}} <small>ngày</small></span><p>Chuỗi ngày học</p></div></div><div class="stat-card"><span class="stat-icon purple"><Icon name="Layers"/></span><div><span class="stat-number">{{stats.due}}</span><p>Từ đến lịch ôn</p></div><RouterLink to="/study?mode=due" class="stat-arrow" aria-label="Ôn từ đến hạn"><Icon name="ArrowUpRight" :size="19"/></RouterLink></div><div class="stat-card"><span class="stat-icon blue"><Icon name="Target"/></span><div><span class="stat-number">{{stats.accuracy===null ? '—' : stats.accuracy+'%'}} </span><p>Độ chính xác luyện tập</p></div></div></section>
+    <div class="dashboard-columns"><section class="topic-section"><div class="section-heading"><div><h2>Bắt đầu từ điều quen thuộc</h2><p>Chọn một chủ đề bạn muốn nói về.</p></div><RouterLink to="/topics" class="text-link">Tất cả chủ đề <Icon name="ArrowRight" :size="16"/></RouterLink></div><div class="topic-grid dashboard-topics"><TopicCard v-for="topic in recommended" :key="topic.id" :topic="topic"/></div></section>
+      <aside class="daily-card"><div class="daily-heading"><span class="stat-icon green"><Icon name="Sprout"/></span><span>MỤC TIÊU HÔM NAY</span></div><div class="goal-ring" :style="{'--progress':percent+'%'}"><div><strong>{{stats.today_words}}<span>/ {{stats.daily_goal}}</span></strong><small>từ đã luyện hôm nay</small></div></div><h3>{{percent>=100 ? 'Bạn đã đạt mục tiêu!' : 'Giữ nhịp học của bạn'}}</h3><p>{{percent>=100 ? 'Một bước nhỏ nữa đã hoàn thành. Hẹn bạn ngày mai!' : `Còn ${Math.max(0,stats.daily_goal-stats.today_words)} từ nữa để hoàn thành mục tiêu.`}}</p><RouterLink to="/study" class="btn outline full">{{percent>=100 ? 'Học thêm một chút' : 'Tiếp tục học'}}<Icon name="ArrowRight" :size="17"/></RouterLink><RouterLink to="/settings" class="muted-link">Điều chỉnh mục tiêu</RouterLink></aside>
+    </div>
+    <section class="activity-card"><div class="section-heading"><div><h2>Đều đặn là điều quan trọng</h2><p>Số từ bạn đã luyện trong 7 ngày gần nhất.</p></div><span class="chart-legend"><span></span>Từ đã luyện</span></div><div class="activity-chart"><div v-for="(day,i) in stats.activity" :key="day.day" class="chart-column"><strong>{{day.words}}</strong><div class="bar-slot"><span :class="{today:i===6}" :style="{height:Math.max(3,day.words/maxActivity*100)+'%'}"></span></div><small>{{i===6 ? 'Hôm nay' : day.label}}</small></div></div></section>
+  </div>
+</template>
